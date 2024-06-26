@@ -1,6 +1,6 @@
 Boas boas vindas ao meu perfil 🤙
 
-Meu nome é Tiago Rodrigues Rosa
+Meu nome é **Tiago Rodrigues Rosa**
 
 - Estou estudando em [Alura] (https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
